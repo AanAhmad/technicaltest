@@ -2,11 +2,11 @@
 
 ## Informasi Aplikasi
 
-Aplikasi ini adalah sebuah sistem manajemen pengguna yang menggunakan teknologi berikut:
+Aplikasi ini adalah sebuah sistem manajemen pemesanan kendaraan yang menggunakan teknologi berikut:
 
 - **Database Version:** MariaDB 10.4.32
 - **PHP Version:** 8.3.0
-- **Framework:** N/A
+- **Framework:** Bootstrap v4.6.1
 
 ## Pengguna Default
 
@@ -16,7 +16,7 @@ Terdapat dua jenis pengguna yang telah ditetapkan secara default:
 - **Username:** admin
 - **Password:** admin
 
-### User
+### User (Penyetuju)
 1. **Username:** rahaan
    - **Password:** rahaan
 
