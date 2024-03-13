@@ -1,8 +1,8 @@
 # README
 
-## Informasi Aplikasi
+## Informasi Aplikasi Manajemen Pemesanan dan Monitoring Kendaraan
 
-Aplikasi ini adalah sebuah sistem manajemen pemesanan kendaraan yang menggunakan teknologi berikut:
+Aplikasi ini adalah sebuah sistem manajemen pemesanan kendaraan serta monitoring penggunaan kendaraan yang menggunakan teknologi berikut:
 
 - **Database Version:** MariaDB 10.4.32
 - **PHP Version:** 8.3.0
@@ -41,13 +41,12 @@ Terdapat dua jenis pengguna yang telah ditetapkan secara default:
      ```
      git clone https://github.com/AanAhmad/technicaltest.git
      ```
-   - Pindahkan atau salin seluruh isi direktori aplikasi ke dalam direktori root web server Anda.
+   - Pindahkan atau salin seluruh isi direktori aplikasi ke dalam direktori root web server Anda, contohnya `htdocs`.
    - Buka aplikasi pengelola database MySQL seperti phpMyAdmin.
    - Buatlah database baru di server Anda.
    - Impor struktur database dari file SQL yang disediakan di dalam direktori `db`. Anda dapat menggunakan antarmuka pengelola database atau perintah impor SQL yang disediakan oleh aplikasi pengelola database.
-   - Konfigurasikan koneksi database pada file konfigurasi aplikasi.
+   - Konfigurasikan koneksi database di dalam config.php yang berada di `app/config`.
    - Pastikan perangkat Anda memiliki PHP versi 8.3.0 atau yang lebih tinggi.
-   - Pastikan perangkat Anda memiliki ekstensi yang diperlukan untuk menjalankan aplikasi (jika ada).
 
 
 2. **Login:**
