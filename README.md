@@ -17,20 +17,21 @@ Terdapat dua jenis pengguna yang telah ditetapkan secara default:
 - **Password:** admin
 
 ### User
-- **Username:** rahaan
-- **Password:** rahaan
+1. **Username:** rahaan
+   - **Password:** rahaan
 
-- **Username:** gentah
-- **Password:** gentah
+2. **Username:** gentah
+   - **Password:** gentah
 
-- **Username:** wardimang
-- **Password:** wardimang
+3. **Username:** wardimang
+   - **Password:** wardimang
 
-- **Username:** ramamasur
-- **Password:** ramamasur
+4. **Username:** ramamasur
+   - **Password:** ramamasur
 
-- **Username:** lasmanan
-- **Password:** lasmanan
+5. **Username:** lasmanan
+   - **Password:** lasmanan
+
 
 ## Panduan Penggunaan Aplikasi
 
