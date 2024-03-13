@@ -6,7 +6,7 @@ Aplikasi ini adalah sebuah sistem manajemen pengguna yang menggunakan teknologi 
 
 - **Database Version:** MariaDB 10.4.32
 - **PHP Version:** 8.3.0
-- **Framework:** (Tidak disebutkan, mungkin tidak menggunakan framework spesifik)
+- **Framework:** N/A
 
 ## Pengguna Default
 
