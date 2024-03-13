@@ -35,13 +35,17 @@ Terdapat dua jenis pengguna yang telah ditetapkan secara default:
 ## Panduan Penggunaan Aplikasi
 
 1. **Instalasi:**
-   - Unduh atau clone repository aplikasi ini.
+   - Unduh atau clone repository aplikasi ini. Gunakan perintah:
+     ```
+     git clone https://github.com/AanAhmad/technicaltest.git
+     ```
    - Pastikan Anda memiliki server web yang mendukung PHP dan database MariaDB.
    - Buatlah database baru di server Anda.
    - Impor struktur database dari file dump yang disertakan (jika ada).
    - Konfigurasikan koneksi database pada file konfigurasi aplikasi.
    - Pastikan perangkat Anda memiliki PHP versi 8.3.0 atau yang lebih tinggi.
    - Pastikan perangkat Anda memiliki ekstensi yang diperlukan untuk menjalankan aplikasi (jika ada).
+
 
 2. **Login:**
    - Masukkan username dan password yang sesuai untuk mengakses sistem.
