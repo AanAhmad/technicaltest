@@ -62,6 +62,7 @@ Terdapat dua kategori pengguna yang telah ditetapkan secara default:
    - Navigasi ke bagian yang diinginkan menggunakan menu yang tersedia.
 
 5. **Fitur Aplikasi:**
+
     Fitur yang diberikan disesuaikan dengan kategori pengguna
 
     ##User##
