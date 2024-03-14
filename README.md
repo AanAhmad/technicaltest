@@ -38,7 +38,7 @@ Terdapat dua kategori pengguna yang telah ditetapkan secara default:
 1. **Instalasi:**
    - Pastikan Anda memiliki platform pengembangan web yang telah terinstal di sistem Anda. Contoh platform yang umum digunakan adalah XAMPP, WAMP, MAMP, atau LAMP, yang mencakup Apache, MySQL/MariaDB, dan PHP.
    - Aktifkan Web Server dan DBMS.
-   - Unduh atau clone repository aplikasi ini. Gunakan perintah:
+   - Unduh atau clone repository aplikasi ini dengan menggunakan perintah berikut:
      ```
      git clone https://github.com/AanAhmad/technicaltest.git
      ```
