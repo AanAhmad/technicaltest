@@ -51,7 +51,7 @@ Terdapat dua jenis pengguna yang telah ditetapkan secara default:
 
 2. **Login:**
    - Setelah instalasi masuk ke web browser dan masukan `YourHost/technicaltest/public` ke menu pencarian atau jika kamu menggunakan XAMPP masuk ke link berikut :
-      (http://localhost/technicaltest/public/){:target="_blank"}
+      http://localhost/technicaltest/public/{:target="_blank"}
    - Masukkan username dan password yang sesuai untuk mengakses sistem.
    - Admin dapat menggunakan username "admin" dan password "admin".
    - Pengguna lain dapat menggunakan username dan password sesuai dengan informasi di atas.
