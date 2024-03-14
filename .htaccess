@@ -1,3 +1,2 @@
 RewriteEngine On
-RewriteBase /
-RewriteRule ^index\.php$ public/index.php [L]
+RewriteRule ^$ /technicaltest/public/ [L]
