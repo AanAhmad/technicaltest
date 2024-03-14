@@ -45,7 +45,7 @@ Terdapat dua kategori pengguna yang telah ditetapkan secara default:
    - Pindahkan atau salin seluruh isi direktori aplikasi ke dalam direktori root web server Anda, contohnya `htdocs`.
    - Buka aplikasi pengelola database MySQL seperti phpMyAdmin.
    - Buatlah database baru di server Anda.
-   - Impor struktur database dari file SQL yang disediakan di dalam direktori `db`. Anda dapat menggunakan antarmuka pengelola database atau perintah impor SQL yang disediakan oleh aplikasi pengelola database.
+   - Impor struktur database dari file SQL yang disediakan di dalam direktori `db`.
    - Konfigurasikan koneksi database di dalam config.php yang berada di `app/config`.
    - Pastikan perangkat Anda memiliki PHP versi 8.3.0 atau yang lebih tinggi.
 
@@ -53,7 +53,7 @@ Terdapat dua kategori pengguna yang telah ditetapkan secara default:
 2. **Login:**
    - Setelah instalasi masuk ke web browser dan masukan `YourHost/technicaltest/public` ke menu pencarian atau jika kamu menggunakan XAMPP masuk ke link berikut :
       http://localhost/technicaltest/public/
-   - Masukkan username dan password yang sesuai untuk mengakses sistem.
+   - Masukkan username dan password yang sesuai untuk masuk ke aplikasi.
    - Admin dapat menggunakan username "admin" dan password "admin".
    - Pengguna lain dapat menggunakan username dan password sesuai dengan informasi di atas.
 
