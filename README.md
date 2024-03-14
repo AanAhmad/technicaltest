@@ -82,4 +82,4 @@ Terdapat dua kategori pengguna yang telah ditetapkan secara default:
 
 ### Data Model
 
-![Data Model!](/public/dist/img/technicaltest.svg "Data Model")
+![Data Model!](/public/dist/img/datamodel.svg "Data Model")
