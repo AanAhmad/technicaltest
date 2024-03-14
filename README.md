@@ -65,12 +65,12 @@ Terdapat dua kategori pengguna yang telah ditetapkan secara default:
 
     Fitur yang diberikan disesuaikan dengan kategori pengguna
 
-   - User
+   - **User**
       - User atau penyetuju dapat melakukan persetujuan di menu `Order` dan melakukan monitoring di menu `Dashboard`.
       - User juga dapat mendapatkan laporan pemesanan dengan masuk ke menu `Lihat Laporan` di atas tabel order.
       - Laporan dapat di export dalam bentuk Excel, Csv, atau PDF.
   
-   - Admin
+   - **Admin**
       - Admin dapat melakukan input data, update data, dan delete data.
       - Terdapat lima menu yang disediakan diantaranya : `Dashboard`, `Kendaraan`, `Booking`, `Driver`, dan `Bahan Bakar`.
       - Juga terdapat menu laporan yang terdapat di tabel `Booking` dengan mengklik tombol `Lihat Laporan` serta dapat di export dalam bentuk Excel, Csv, maupun PDF.
