@@ -1,20 +1,11 @@
 <?php
 
 class Fuel extends Controller {
+	
 	public function index()
 	{
 		$data['title'] = 'Halaman Bahan Bakar';
 		$data['fuel'] = $this->model('FuelModel')->getAllFuel();
-		$this->view('templates/header', $data);
-		$this->view('templates/sidebar', $data);
-		$this->view('fuel/index', $data);
-		$this->view('templates/footer');
-	}
-	public function cari()
-	{
-		$data['title'] = 'Data Bahan Bakar';
-		$data['fuel'] = $this->model('FuelModel')->cariFuel();
-		$data['key'] = $_POST['key'];
 		$this->view('templates/header', $data);
 		$this->view('templates/sidebar', $data);
 		$this->view('fuel/index', $data);

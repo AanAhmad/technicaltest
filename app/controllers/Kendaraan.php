@@ -10,16 +10,6 @@ class Kendaraan extends Controller {
 		$this->view('kendaraan/index', $data);
 		$this->view('templates/footer');
 	}
-	public function cari()
-	{
-		$data['title'] = 'Data Kendaraan';
-		$data['kendaraan'] = $this->model('KendaraanModel')->cariKendaraan();
-		$data['key'] = $_POST['key'];
-		$this->view('templates/header', $data);
-		$this->view('templates/sidebar', $data);
-		$this->view('kendaraan/index', $data);
-		$this->view('templates/footer');
-	}
 
 	public function edit($id)
 	{

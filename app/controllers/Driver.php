@@ -10,16 +10,6 @@ class Driver extends Controller {
 		$this->view('driver/index', $data);
 		$this->view('templates/footer');
 	}
-	public function cari()
-	{
-		$data['title'] = 'Data Driver';
-		$data['driver'] = $this->model('DriverModel')->cariDriver();
-		$data['key'] = $_POST['key'];
-		$this->view('templates/header', $data);
-		$this->view('templates/sidebar', $data);
-		$this->view('driver/index', $data);
-		$this->view('templates/footer');
-	}
 
 	public function edit($id)
 	{

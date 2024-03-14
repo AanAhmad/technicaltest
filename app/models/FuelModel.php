@@ -54,12 +54,4 @@ class FuelModel {
 
 		return $this->db->rowCount();
 	}
-
-	public function cariFuel()
-	{
-		$key = $_POST['key'];
-		$this->db->query("SELECT * FROM " . $this->table . " WHERE fuel_name LIKE :key");
-		$this->db->bind('key',"%$key%");
-		return $this->db->resultSet();
-	}
 }
