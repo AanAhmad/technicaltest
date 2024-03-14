@@ -50,16 +50,18 @@ Terdapat dua jenis pengguna yang telah ditetapkan secara default:
 
 
 2. **Login:**
+   - Setelah instalasi masuk ke web browser dan masukan `YourHost/technicaltest/public` ke menu pencarian atau jika kamu menggunakan XAMPP masuk ke link berikut :
+      (http://localhost/technicaltest/public/)
    - Masukkan username dan password yang sesuai untuk mengakses sistem.
    - Admin dapat menggunakan username "admin" dan password "admin".
    - Pengguna lain dapat menggunakan username dan password sesuai dengan informasi di atas.
 
-3. **Navigasi:**
+4. **Navigasi:**
    - Setelah login, Anda akan diarahkan ke halaman beranda yang menampilkan fitur-fitur yang tersedia.
    - Navigasi ke bagian yang diinginkan menggunakan menu yang tersedia.
 
-4. **Fitur Aplikasi:**
+5. **Fitur Aplikasi:**
    - Sesuai dengan tujuan aplikasi, gunakan fitur-fitur yang tersedia untuk manajemen pengguna sesuai kebutuhan.
 
-5. **Keluar:**
+6. **Keluar:**
    - Pastikan untuk keluar dari aplikasi setelah selesai menggunakan dengan mengklik tombol logout atau menutup jendela browser.
