@@ -58,6 +58,7 @@ Terdapat dua kategori pengguna yang telah ditetapkan secara default:
    - Pengguna lain dapat menggunakan username dan password sesuai dengan informasi di atas.
 
 4. **Navigasi:**
+<<<<<<< HEAD
    - Setelah login, Anda akan diarahkan ke halaman dashboard.
    - Navigasi ke bagian yang diinginkan menggunakan menu yang tersedia.
 
@@ -77,3 +78,13 @@ Terdapat dua kategori pengguna yang telah ditetapkan secara default:
 
 7. **Keluar:**
    - Pastikan untuk keluar dari aplikasi setelah selesai menggunakan dengan mengklik tombol logout yang ada di kanan atas aplikasi atau menutup jendela browser.
+=======
+   - Setelah login, Anda akan diarahkan ke halaman beranda yang menampilkan fitur-fitur yang tersedia.
+   - Navigasi ke bagian yang diinginkan menggunakan menu yang tersedia.
+
+5. **Fitur Aplikasi:**
+   - Sesuai dengan tujuan aplikasi, gunakan fitur-fitur yang tersedia untuk manajemen pengguna sesuai kebutuhan.
+
+6. **Keluar:**
+   - Pastikan untuk keluar dari aplikasi setelah selesai menggunakan dengan mengklik tombol logout atau menutup jendela browser.
+>>>>>>> e5c60aeaf9f7929495c3e3645fa1db45800f142a
