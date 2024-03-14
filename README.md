@@ -77,3 +77,9 @@ Terdapat dua kategori pengguna yang telah ditetapkan secara default:
 
 7. **Keluar:**
    - Pastikan untuk keluar dari aplikasi setelah selesai menggunakan dengan mengklik tombol logout yang ada di kanan atas aplikasi atau menutup jendela browser.
+
+## Extra
+
+### Data Model
+
+![Data Model!](/public/dist/img/technicaltest.svg "Data Model")

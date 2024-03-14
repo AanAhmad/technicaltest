@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="168 157 1002 569" width="834px" height="412px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <line x1="574" y1="222" x2="584" y2="222" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="678" y1="204" x2="688" y2="204" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="584" y1="222" x2="678" y2="204" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="581.5" y1="222" x2="577.96446609407" y2="225.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="581.5" y1="222" x2="577.96446609407" y2="218.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="683" y1="204" x2="679.46446609407" y2="207.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="683" y1="204" x2="679.46446609407" y2="200.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="574" y1="242" x2="584" y2="242" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="680" y1="464" x2="690" y2="464" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="584" y1="242" x2="680" y2="464" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="581.5" y1="242" x2="577.96446609407" y2="245.53553390593" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="581.5" y1="242" x2="577.96446609407" y2="238.46446609407" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="685" y1="464" x2="681.46446609407" y2="467.53553390593" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="685" y1="464" x2="681.46446609407" y2="460.46446609407" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="449" y1="302" x2="439" y2="302" style="stroke:#333;stroke-width:1;"/>
+   <line x1="284" y1="202" x2="274" y2="202" style="stroke:#333;stroke-width:1;"/>
+   <line x1="439" y1="302" x2="284" y2="202" style="stroke:#333;stroke-width:1;"/>
+   <line x1="441.5" y1="302" x2="445.03553390593" y2="305.53553390593" style="stroke:#333;stroke-width:2;"/>
+   <line x1="441.5" y1="302" x2="445.03553390593" y2="298.46446609407" style="stroke:#333;stroke-width:2;"/>
+   <line x1="279" y1="202" x2="282.53553390593" y2="205.53553390593" style="stroke:#333;stroke-width:2;"/>
+   <line x1="279" y1="202" x2="282.53553390593" y2="198.46446609407" style="stroke:#333;stroke-width:2;"/>
+   <line x1="449" y1="322" x2="439" y2="322" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="284" y1="202" x2="274" y2="202" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="439" y1="322" x2="284" y2="202" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="441.5" y1="322" x2="445.03553390593" y2="325.53553390593" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="441.5" y1="322" x2="445.03553390593" y2="318.46446609407" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="279" y1="202" x2="282.53553390593" y2="205.53553390593" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="279" y1="202" x2="282.53553390593" y2="198.46446609407" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="820" y1="284" x2="830" y2="284" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="896" y1="204" x2="906" y2="204" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="830" y1="284" x2="896" y2="204" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="827.5" y1="284" x2="823.96446609407" y2="287.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="827.5" y1="284" x2="823.96446609407" y2="280.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="901" y1="204" x2="897.46446609407" y2="207.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="901" y1="204" x2="897.46446609407" y2="200.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <rect width="125" height="20" x="449" y="172" style="fill:#007;stroke:black;"/>
+   <text width="125" height="20" x="454" y="186" style="fill:#fff;" font-family="Arial" font-size="16px"> booking</text>
+   <rect width="125" height="20" x="449" y="192" style="fill:#aea;stroke:black;"/>
+   <text width="125" height="20" x="454" y="206" style="fill:black;" font-family="Arial" font-size="16px">booking_id</text>
+   <rect width="125" height="20" x="449" y="212" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="454" y="226" style="fill:black;" font-family="Arial" font-size="16px">vehicle_id</text>
+   <rect width="125" height="20" x="449" y="232" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="454" y="246" style="fill:black;" font-family="Arial" font-size="16px">driver_id</text>
+   <rect width="125" height="20" x="449" y="252" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="454" y="266" style="fill:black;" font-family="Arial" font-size="16px">distance</text>
+   <rect width="125" height="20" x="449" y="272" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="454" y="286" style="fill:black;" font-family="Arial" font-size="16px">cost</text>
+   <rect width="125" height="20" x="449" y="292" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="454" y="306" style="fill:black;" font-family="Arial" font-size="16px">aprv1_id</text>
+   <rect width="125" height="20" x="449" y="312" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="454" y="326" style="fill:black;" font-family="Arial" font-size="16px">aprv2_id</text>
+   <rect width="125" height="20" x="449" y="332" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="454" y="346" style="fill:black;" font-family="Arial" font-size="16px">aprv1_status</text>
+   <rect width="125" height="20" x="449" y="352" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="454" y="366" style="fill:black;" font-family="Arial" font-size="16px">aprv2_status</text>
+   <rect width="125" height="20" x="449" y="372" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="454" y="386" style="fill:black;" font-family="Arial" font-size="16px">aprv1_note</text>
+   <rect width="125" height="20" x="449" y="392" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="454" y="406" style="fill:black;" font-family="Arial" font-size="16px">aprv2_note</text>
+   <rect width="125" height="20" x="449" y="412" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="454" y="426" style="fill:black;" font-family="Arial" font-size="16px">status</text>
+   <rect width="125" height="20" x="449" y="432" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="454" y="446" style="fill:black;" font-family="Arial" font-size="16px">booking_created</text>
+   <rect width="119" height="20" x="690" y="434" style="fill:#007;stroke:black;"/>
+   <text width="119" height="20" x="695" y="448" style="fill:#fff;" font-family="Arial" font-size="16px"> driver</text>
+   <rect width="119" height="20" x="690" y="454" style="fill:#aea;stroke:black;"/>
+   <text width="119" height="20" x="695" y="468" style="fill:black;" font-family="Arial" font-size="16px">driver_id</text>
+   <rect width="119" height="20" x="690" y="474" style="fill:none;stroke:black;"/>
+   <text width="119" height="20" x="695" y="488" style="fill:black;" font-family="Arial" font-size="16px">driver_name</text>
+   <rect width="119" height="20" x="690" y="494" style="fill:none;stroke:black;"/>
+   <text width="119" height="20" x="695" y="508" style="fill:black;" font-family="Arial" font-size="16px">phone</text>
+   <rect width="119" height="20" x="690" y="514" style="fill:none;stroke:black;"/>
+   <text width="119" height="20" x="695" y="528" style="fill:black;" font-family="Arial" font-size="16px">email</text>
+   <rect width="119" height="20" x="690" y="534" style="fill:none;stroke:black;"/>
+   <text width="119" height="20" x="695" y="548" style="fill:black;" font-family="Arial" font-size="16px">license_number</text>
+   <rect width="81" height="20" x="906" y="174" style="fill:#007;stroke:black;"/>
+   <text width="81" height="20" x="911" y="188" style="fill:#fff;" font-family="Arial" font-size="16px"> fuel</text>
+   <rect width="81" height="20" x="906" y="194" style="fill:#aea;stroke:black;"/>
+   <text width="81" height="20" x="911" y="208" style="fill:black;" font-family="Arial" font-size="16px">fuel_id</text>
+   <rect width="81" height="20" x="906" y="214" style="fill:none;stroke:black;"/>
+   <text width="81" height="20" x="911" y="228" style="fill:black;" font-family="Arial" font-size="16px">fuel_name</text>
+   <rect width="81" height="20" x="906" y="234" style="fill:none;stroke:black;"/>
+   <text width="81" height="20" x="911" y="248" style="fill:black;" font-family="Arial" font-size="16px">fuel_price</text>
+   <rect width="91" height="20" x="183" y="172" style="fill:#007;stroke:black;"/>
+   <text width="91" height="20" x="188" y="186" style="fill:#fff;" font-family="Arial" font-size="16px"> users</text>
+   <rect width="91" height="20" x="183" y="192" style="fill:#aea;stroke:black;"/>
+   <text width="91" height="20" x="188" y="206" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="91" height="20" x="183" y="212" style="fill:none;stroke:black;"/>
+   <text width="91" height="20" x="188" y="226" style="fill:black;" font-family="Arial" font-size="16px">name</text>
+   <rect width="91" height="20" x="183" y="232" style="fill:none;stroke:black;"/>
+   <text width="91" height="20" x="188" y="246" style="fill:black;" font-family="Arial" font-size="16px">department</text>
+   <rect width="91" height="20" x="183" y="252" style="fill:none;stroke:black;"/>
+   <text width="91" height="20" x="188" y="266" style="fill:black;" font-family="Arial" font-size="16px">username</text>
+   <rect width="91" height="20" x="183" y="272" style="fill:none;stroke:black;"/>
+   <text width="91" height="20" x="188" y="286" style="fill:black;" font-family="Arial" font-size="16px">password</text>
+   <rect width="91" height="20" x="183" y="292" style="fill:none;stroke:black;"/>
+   <text width="91" height="20" x="188" y="306" style="fill:black;" font-family="Arial" font-size="16px">role</text>
+   <rect width="132" height="20" x="688" y="174" style="fill:#007;stroke:black;"/>
+   <text width="132" height="20" x="693" y="188" style="fill:#fff;" font-family="Arial" font-size="16px"> vehicles</text>
+   <rect width="132" height="20" x="688" y="194" style="fill:#aea;stroke:black;"/>
+   <text width="132" height="20" x="693" y="208" style="fill:black;" font-family="Arial" font-size="16px">vehicle_id</text>
+   <rect width="132" height="20" x="688" y="214" style="fill:none;stroke:black;"/>
+   <text width="132" height="20" x="693" y="228" style="fill:black;" font-family="Arial" font-size="16px">vehicle_name</text>
+   <rect width="132" height="20" x="688" y="234" style="fill:none;stroke:black;"/>
+   <text width="132" height="20" x="693" y="248" style="fill:black;" font-family="Arial" font-size="16px">manufacturer</text>
+   <rect width="132" height="20" x="688" y="254" style="fill:none;stroke:black;"/>
+   <text width="132" height="20" x="693" y="268" style="fill:black;" font-family="Arial" font-size="16px">type</text>
+   <rect width="132" height="20" x="688" y="274" style="fill:none;stroke:black;"/>
+   <text width="132" height="20" x="693" y="288" style="fill:black;" font-family="Arial" font-size="16px">fuel_id</text>
+   <rect width="132" height="20" x="688" y="294" style="fill:none;stroke:black;"/>
+   <text width="132" height="20" x="693" y="308" style="fill:black;" font-family="Arial" font-size="16px">fuel_consumption</text>
+   <rect width="132" height="20" x="688" y="314" style="fill:none;stroke:black;"/>
+   <text width="132" height="20" x="693" y="328" style="fill:black;" font-family="Arial" font-size="16px">last_service</text>
+   <rect width="132" height="20" x="688" y="334" style="fill:none;stroke:black;"/>
+   <text width="132" height="20" x="693" y="348" style="fill:black;" font-family="Arial" font-size="16px">next_service</text>
+   <rect width="132" height="20" x="688" y="354" style="fill:none;stroke:black;"/>
+   <text width="132" height="20" x="693" y="368" style="fill:black;" font-family="Arial" font-size="16px">owner</text>
+</svg>
