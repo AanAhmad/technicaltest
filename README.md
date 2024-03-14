@@ -79,9 +79,3 @@ Terdapat dua kategori pengguna yang telah ditetapkan secara default:
    - Pastikan untuk keluar dari aplikasi setelah selesai menggunakan dengan mengklik tombol logout yang ada di kanan atas aplikasi atau menutup jendela browser.
    - Setelah login, Anda akan diarahkan ke halaman beranda yang menampilkan fitur-fitur yang tersedia.
    - Navigasi ke bagian yang diinginkan menggunakan menu yang tersedia.
-
-5. **Fitur Aplikasi:**
-   - Sesuai dengan tujuan aplikasi, gunakan fitur-fitur yang tersedia untuk manajemen pengguna sesuai kebutuhan.
-
-6. **Keluar:**
-   - Pastikan untuk keluar dari aplikasi setelah selesai menggunakan dengan mengklik tombol logout atau menutup jendela browser.
